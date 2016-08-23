@@ -1,14 +1,14 @@
 layout_spectrum: 0.2813283
-typography_spectrum: 0.7670873
 color:
   saturation: 0.71487
   lightness: 0.4167771
   brandStrength: 0.01712499
   brandColors:
-    - '#7B99D7'
-    - '#2A478B'
-    - '#B2D0E7'
-    - '#0F1316'
-    - '#40D0F6'
+    - '#213668'
+    - '#7795D3'
+    - '#C1D6E6'
+    - '#896F54'
+    - '#43D0F5'
   rhythmicContrast: 0.7490324
+typography_spectrum: 0.7670873
 name: Testina

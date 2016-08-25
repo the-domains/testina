@@ -1,16 +1,16 @@
-typography_spectrum: 0.7670873
+layout_spectrum: 0.3537562123965472
+typography_spectrum: 0.055840147426351905
 color:
-  saturation: 0.71487
-  lightness: 0.4167771
-  brandStrength: 0.01712499
+  saturation: 0.9944556925911456
+  lightness: 0.4908466611523181
+  brandStrength: 0.23275646497495472
   brandColors:
-    - '#213668'
-    - '#7795D3'
-    - '#C1D6E6'
-    - '#896F54'
-    - '#43D0F5'
-  rhythmicContrast: 0.7490324
-layout_spectrum: 0.2813283
+    - '#B0CAEA'
+    - '#B20838'
+    - '#D7C300'
+    - '#00467F'
+    - '#CB5778'
+  rhythmicContrast: 0.9928276417776942
 name: CDLAN
 title: Caldera21
 description: Born To Be Tier 4

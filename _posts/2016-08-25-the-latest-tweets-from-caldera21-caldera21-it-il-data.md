@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-25T09:30:11.135Z'
+datePublished: '2016-08-25T09:57:49.435Z'
+sourcePath: _posts/2016-08-25-the-latest-tweets-from-caldera21-caldera21-it-il-data.md
 isBasedOnUrl: 'https://twitter.com/caldera21'
 keywords:
   - caldera21
@@ -15,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-25T09:30:01.774Z'
+dateModified: '2016-08-25T09:57:48.889Z'
 title: ''
 app_links:
   - path: >-
@@ -30,7 +31,6 @@ description: >-
   Tweet in Italian and English. Milano, Lombardia
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-25-the-latest-tweets-from-caldera21-caldera21-it-il-data.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -38,6 +38,6 @@ _context: 'http://schema.org'
 _type: Comment
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebc3ed88-0d4b-41ef-a0fc-614cf380a543.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d35aa010-9628-4fbc-84ae-04a2f8e018d0.png)
 
 > The latest Tweets from Caldera21 (@caldera21). \[IT\] Il Data Center Che Non C'Era. Tweet in Italiano ed Inglese. \[EN\] New Data Center Born to Be Tier 4\. Tweet in Italian and English. Milano, Lombardia

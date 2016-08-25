@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Caldera21]]></title>
+        <description><![CDATA[Caldera21]]></description>
+        <link>https://thegrid.ai/testina/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Aug 2016 09:30:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebc3ed88-0d4b-41ef-a0fc-614cf380a543.jpg">]]></description>
+            <link>https://twitter.com/caldera21</link>
+            <guid isPermaLink="false">5c1e4e86-a024-4a46-85d0-d292b81ac39a</guid>
+            <pubDate>Thu, 25 Aug 2016 09:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a07d4d64-c35d-419f-9fa7-e3799886ed63.jpg" alt="Driving to a new horizon">]]></description>
+            <link>https://thegrid.ai/testina/driving-to-a-new-horizon/index.html</link>
+            <guid isPermaLink="false">3f8a0f5e-c333-4b52-abd3-949c7a88f3b0</guid>
+            <pubDate>Thu, 25 Aug 2016 09:24:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

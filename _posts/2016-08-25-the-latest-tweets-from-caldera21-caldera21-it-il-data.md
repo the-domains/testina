@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T09:57:49.435Z'
+datePublished: '2016-08-25T10:00:28.508Z'
 sourcePath: _posts/2016-08-25-the-latest-tweets-from-caldera21-caldera21-it-il-data.md
 isBasedOnUrl: 'https://twitter.com/caldera21'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-25T09:57:48.889Z'
+dateModified: '2016-08-25T10:00:27.795Z'
 title: ''
 app_links:
   - path: >-

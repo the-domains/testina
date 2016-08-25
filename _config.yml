@@ -1,4 +1,4 @@
-layout_spectrum: 0.2813283
+typography_spectrum: 0.7670873
 color:
   saturation: 0.71487
   lightness: 0.4167771
@@ -10,5 +10,6 @@ color:
     - '#896F54'
     - '#43D0F5'
   rhythmicContrast: 0.7490324
-typography_spectrum: 0.7670873
-name: Testina
+layout_spectrum: 0.2813283
+name: CDLAN
+title: Caldera21
